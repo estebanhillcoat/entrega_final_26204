@@ -1,3 +1,6 @@
+#verion 1 del soft
+
+
 import dataset
 miBase = dataset.connect("sqlite:///datos.db")
 tabla = miBase["Productos"]
